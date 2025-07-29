@@ -71,14 +71,13 @@ Video_Connect_Agora/
 └── README.md              # Project documentation
 ```
 
-🤝 Contributing
+
+---
+
+## 🤝 Contributing
 
 Pull requests and issues are welcome! If you’d like to contribute:
 
-    Fork the repository
-
-    Make your changes
-
-    Submit a pull request
+---
 
 
